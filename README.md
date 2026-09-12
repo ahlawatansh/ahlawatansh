@@ -145,8 +145,6 @@ creed:       "Make it work, make it right, make it fast."
 
 </div>
 
-<p align="center"><sub>&#128126; A purple snake eating my GitHub contributions — refreshed daily via GitHub Actions</sub></p>
-
 <br/><br/>
 
 <!-- ▸ GitHub Stats ────────────────────────────────────────────── -->
@@ -155,11 +153,9 @@ creed:       "Make it work, make it right, make it fast."
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ahlawatansh&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7c3aed&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=c084fc&dates=8b949e)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahlawatansh&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=c9d1d9&ring_color=7c3aed)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ahlawatansh&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=c9d1d9&ring_color=7c3aed)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahlawatansh&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahlawatansh&bg_color=0d1117&color=c084fc&line=a855f7&point=7c3aed&area=true&area_color=7c3aed&hide_border=true)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahlawatansh&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9)
 
 </div>
 
