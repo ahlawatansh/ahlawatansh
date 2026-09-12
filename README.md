@@ -166,7 +166,6 @@ creed:       "Make it work, make it right, make it fast."
 
 <div align="center">
 <a href="https://github.com/ahlawatansh">
-
 ![Snake animation](https://raw.githubusercontent.com/ahlawatansh/ahlawatansh/output/github-contribution-grid-snake-dark.svg)
 </a>
 </div>
@@ -189,18 +188,25 @@ creed:       "Make it work, make it right, make it fast."
 
 <br/>
 <br/>
+
 <div align="center">
+  <a href="https://github.com/ahlawatansh">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=C084FC&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=%E2%9A%A1+GitHub+Stats" alt="GitHub Statistics" />
+  </a>
 </div>
 
 <br/>
 <br/>
 
 <p align="center">
+  <a href="https://github.com/ahlawatansh">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahlawatansh&amp;show_icons=true&amp;theme=midnight-purple&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=c084fc&amp;icon_color=a855f7&amp;text_color=c9d1d9&amp;ring_color=7c3aed" height="165" alt="GitHub Stats" />
   &nbsp;&nbsp;
+  </a>
+  <a href="https://github.com/ahlawatansh">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahlawatansh&amp;layout=compact&amp;theme=midnight-purple&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=c084fc&amp;text_color=c9d1d9" height="165" alt="Top Languages" />
-</p>
+  </a>
+  </p>
 
 </div>
 
@@ -231,5 +237,6 @@ creed:       "Make it work, make it right, make it fast."
 </p>
 
 <br/>
-
+<a href="https://github.com/ahlawatansh">
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:5b21b6,50:a855f7,100:7c3aed&amp;height=100&amp;section=footer" width="100%" alt="Footer" />
+</a>
