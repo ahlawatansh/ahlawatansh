@@ -3,7 +3,6 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<a href="https://github.com/ahlawatansh">
 <table><tr><td>
 <samp>
 &#128308; &#128993; &#128994; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -11,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </samp>
 </td></tr></table>
-</a>
+
 </div>
 <a href="https://github.com/ahlawatansh">
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:5b21b6,50:a855f7,100:7c3aed&amp;text=Hi%20🙋‍♂️,%20I'm%20Ansh%20Ahlawat&amp;fontSize=36&amp;fontAlignY=38&amp;animation=fadeIn&amp;fontColor=ffffff&amp;height=180&amp;section=header" width="100%" alt="Header" />
@@ -22,17 +21,24 @@
 </a>
 
 <br/>
-<a href="https://github.com/ahlawatansh">
 <p>
+  <a href="https://github.com/ahlawatansh">
   <img src="https://img.shields.io/github/followers/ahlawatansh?label=Followers&amp;style=flat-square&amp;color=7c3aed&amp;labelColor=1a1a2e" alt="Followers" />
+  </a>
   &nbsp;
+  <a href="https://github.com/ahlawatansh">
   <img src="https://img.shields.io/badge/Status-Online%20%26%20Building-a855f7?style=flat-square&amp;labelColor=1a1a2e" alt="Status" />
+  </a>
   &nbsp;
+  <a href="https://github.com/ahlawatansh">
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Edge%20AI-c084fc?style=flat-square&amp;labelColor=1a1a2e" alt="Focus" />
+  </a>
   &nbsp;
+  <a href="https://github.com/ahlawatansh">
   <img src="https://komarev.com/ghpvc/?username=ahlawatansh&amp;label=Profile%20Views&amp;color=7c3aed&amp;style=flat-square" alt="Profile Views" />
+  </a>
 </p>
-</a>
+
 </div>
 
 <br/><br/>
