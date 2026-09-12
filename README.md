@@ -51,8 +51,14 @@ creed:       "Make it work, make it right, make it fast."
 ```
 
 <br/><br/>
+<br/>
 
 <!-- ▸ Tech Stack — 2 columns × 3 rows ────────────────────────── -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=C084FC&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=%E2%9A%A1+Programming+Languages+%26+Tools" alt="Programming Languages and Tools" />
+</div>
+
+<br/>
 
 <div align="center">
 <table>
@@ -92,8 +98,14 @@ creed:       "Make it work, make it right, make it fast."
 </div>
 
 <br/><br/>
+<br/>
 
 <!-- ▸ Featured Projects ──────────────────────────────────────── -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=C084FC&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=%F0%9F%9A%80+Featured+Builds+%26+Projects" alt="Featured Builds and Labs" />
+</div>
+
+<br/>
 
 <table>
   <tr>
@@ -136,6 +148,7 @@ creed:       "Make it work, make it right, make it fast."
 </table>
 
 <br/><br/>
+<br/>
 
 <!-- ▸ Contribution Snake ─────────────────────────────────────── -->
 
@@ -146,22 +159,44 @@ creed:       "Make it work, make it right, make it fast."
 </div>
 
 <br/><br/>
+<br/>
 
 <!-- ▸ GitHub Stats ────────────────────────────────────────────── -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=C084FC&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=%E2%9A%A1+My+Streak" alt="GitHub Statistics" />
+</div>
 
+<br/>
 <div align="center">
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ahlawatansh&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7c3aed&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=c084fc&dates=8b949e)
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ahlawatansh&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=c9d1d9&ring_color=7c3aed)
+<br/>
+<br/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=C084FC&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=%E2%9A%A1+GitHub+Stats" alt="GitHub Statistics" />
+</div>
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahlawatansh&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9)
+<br/>
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahlawatansh&amp;show_icons=true&amp;theme=midnight-purple&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=c084fc&amp;icon_color=a855f7&amp;text_color=c9d1d9&amp;ring_color=7c3aed" height="165" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahlawatansh&amp;layout=compact&amp;theme=midnight-purple&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=c084fc&amp;text_color=c9d1d9" height="165" alt="Top Languages" />
+</p>
 
 </div>
 
 <br/><br/>
 
-<!-- ▸ Connect ─────────────────────────────────────────────────── -->
+<br/>
+<!-- ▸ Connect ─────────────────────────────────────────────────── %E2%9A%A1-->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=C084FC&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=%F0%9F%93%A1+Establish+Uplink+%26+Connect" alt="Establish Uplink and Connect" />
+</div>
+
+<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anshahlawat">
