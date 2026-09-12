@@ -60,11 +60,13 @@ creed:       "Make it work, make it right, make it fast."
 <br/>
 
 <!-- ▸ Tech Stack — 2 columns × 3 rows ────────────────────────── -->
-<a href="https://github.com/ahlawatansh">
+
 <div align="center">
+  <a href="https://github.com/ahlawatansh">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=C084FC&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=%E2%9A%A1+Programming+Languages+%26+Tools" alt="Programming Languages and Tools" />
+    </a>
 </div>
-</a>
+
 <br/>
 
 <div align="center">
@@ -108,11 +110,13 @@ creed:       "Make it work, make it right, make it fast."
 <br/>
 
 <!-- ▸ Featured Projects ──────────────────────────────────────── -->
-<a href="https://github.com/ahlawatansh">
+
 <div align="center">
+  <a href="https://github.com/ahlawatansh">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=C084FC&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=%F0%9F%9A%80+Featured+Builds+%26+Projects" alt="Featured Builds and Labs" />
+    </a>
 </div>
-</a>
+
 <br/>
 
 <table>
@@ -159,22 +163,25 @@ creed:       "Make it work, make it right, make it fast."
 <br/>
 
 <!-- ▸ Contribution Snake ─────────────────────────────────────── -->
-<a href="https://github.com/ahlawatansh">
+
 <div align="center">
+<a href="https://github.com/ahlawatansh">
 
 ![Snake animation](https://raw.githubusercontent.com/ahlawatansh/ahlawatansh/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 </a>
+</div>
+
 <br/><br/>
 <br/>
 
 <!-- ▸ GitHub Stats ────────────────────────────────────────────── -->
-<a href="https://github.com/ahlawatansh">
+
 <div align="center">
+  <a href="https://github.com/ahlawatansh">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=C084FC&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=%E2%9A%A1+My+Streak" alt="GitHub Statistics" />
+    </a>
 </div>
-</a>
+
 <br/>
 <div align="center">
 
@@ -201,11 +208,12 @@ creed:       "Make it work, make it right, make it fast."
 
 <br/>
 <!-- ▸ Connect ─────────────────────────────────────────────────── %E2%9A%A1-->
-<a href="https://github.com/ahlawatansh">
+
 <div align="center">
+  <a href="https://github.com/ahlawatansh">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=C084FC&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=%F0%9F%93%A1+Establish+Uplink+%26+Connect" alt="Establish Uplink and Connect" />
-</div>
 </a>
+</div>
 <br/>
 
 <p align="center">
