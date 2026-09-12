@@ -14,7 +14,6 @@
 
 </div>
 
-</br>
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:5b21b6,50:a855f7,100:7c3aed&amp;text=Hi%20🙋‍♂️,%20I'm%20Ansh%20Ahlawat&amp;fontSize=36&amp;fontAlignY=38&amp;animation=fadeIn&amp;fontColor=ffffff&amp;height=180&amp;section=header" width="100%" alt="Header" />
 
 <div align="center">
