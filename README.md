@@ -166,6 +166,7 @@ creed:       "Make it work, make it right, make it fast."
 
 <div align="center">
 <a href="https://github.com/ahlawatansh">
+  
 ![Snake animation](https://raw.githubusercontent.com/ahlawatansh/ahlawatansh/output/github-contribution-grid-snake-dark.svg)
 </a>
 </div>
