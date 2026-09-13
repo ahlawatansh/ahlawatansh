@@ -13,7 +13,7 @@
 </a>
 <div align="center">
 <a href="https://github.com/ahlawatansh">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=400&amp;size=16&amp;duration=3000&amp;pause=1000&amp;color=C084FC&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=Aspiring+Software+Engineer;Building+scalable+web+apps+%26+Edge-AI;Aspiring+Software+Engineer;Crafting+clean+code+with+minimal+friction;Full-Stack+%26+Edge+AI+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=400&amp;size=16&amp;duration=3000&amp;pause=1000&amp;color=C084FC&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=Software+Engineer;Building+scalable+web+apps+%26+Edge-AI;Software+Engineer;Crafting+clean+code+with+minimal+friction;Full-Stack+%26+Edge+AI+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -42,7 +42,7 @@
 ```yaml
 user:        Ansh Ahlawat (@ahlawatansh)
 status:      🟢 Online — Coding & Building
-role:        Aspiring Software Engineer
+role:        Software Engineer
 focus:       Full-Stack Engineering · Cloud Systems · Edge AI
 
 currently_building:
