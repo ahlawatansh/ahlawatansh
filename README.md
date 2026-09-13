@@ -1,7 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--        ANSH AHLAWAT — GITHUB PROFILE  ·  PURPLE EDITION      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 <table><tr><td>
 <samp>
@@ -59,7 +55,6 @@ creed:       "Make it work, make it right, make it fast."
 <br/><br/>
 <br/>
 
-<!-- ▸ Tech Stack — 2 columns × 3 rows ────────────────────────── -->
 
 <div align="center">
   <a href="https://github.com/ahlawatansh">
@@ -108,8 +103,6 @@ creed:       "Make it work, make it right, make it fast."
 
 <br/><br/>
 <br/>
-
-<!-- ▸ Featured Projects ──────────────────────────────────────── -->
 
 <div align="center">
   <a href="https://github.com/ahlawatansh">
@@ -162,7 +155,6 @@ creed:       "Make it work, make it right, make it fast."
 <br/><br/>
 <br/>
 
-<!-- ▸ Contribution Snake ─────────────────────────────────────── -->
 
 <div align="center">
 <a href="https://github.com/ahlawatansh">
@@ -173,8 +165,6 @@ creed:       "Make it work, make it right, make it fast."
 
 <br/><br/>
 <br/>
-
-<!-- ▸ GitHub Stats ────────────────────────────────────────────── -->
 
 <div align="center">
   <a href="https://github.com/ahlawatansh">
@@ -214,7 +204,6 @@ creed:       "Make it work, make it right, make it fast."
 <br/><br/>
 
 <br/>
-<!-- ▸ Connect ─────────────────────────────────────────────────── %E2%9A%A1-->
 
 <div align="center">
   <a href="https://github.com/ahlawatansh">
