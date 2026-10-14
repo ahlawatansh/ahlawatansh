@@ -18,9 +18,6 @@
 
 <br/>
 <p>
-  <a href="https://github.com/ahlawatansh">
-  <img src="https://img.shields.io/github/followers/ahlawatansh?label=Followers&amp;style=flat-square&amp;color=7c3aed&amp;labelColor=1a1a2e" alt="Followers" />
-  </a>
   &nbsp;
   <a href="https://github.com/ahlawatansh">
   <img src="https://img.shields.io/badge/Status-Online%20%26%20Building-a855f7?style=flat-square&amp;labelColor=1a1a2e" alt="Status" />
@@ -30,9 +27,6 @@
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Edge%20AI-c084fc?style=flat-square&amp;labelColor=1a1a2e" alt="Focus" />
   </a>
   &nbsp;
-  <a href="https://github.com/ahlawatansh">
-  <img src="https://komarev.com/ghpvc/?username=ahlawatansh&amp;label=Profile%20Views&amp;color=7c3aed&amp;style=flat-square" alt="Profile Views" />
-  </a>
 </p>
 
 </div>
